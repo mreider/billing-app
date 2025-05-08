@@ -1,0 +1,18 @@
+{
+  "tenant": {
+    "id": "abc12345",
+    "url": "https://abc12345.live.dynatrace.com"
+  },
+  "connection": {
+    "auth": "Api-Token dt0c01.EXAMPLE1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "baseUrl": "https://abc12345.live.dynatrace.com"
+  },
+  "options": {
+    "debug": false,
+    "agentPath": "/opt/dynatrace",
+    "logPath": "/tmp/dynatrace_log",
+    "tracingEnabled": true,
+    "metricsEnabled": true,
+    "logAnalyticsEnabled": true
+  }
+}
